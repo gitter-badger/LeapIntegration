@@ -1,0 +1,23 @@
+{
+  "name": "LeapIntegration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NapierDevSoc/LeapIntegration"
+  },
+  "author": "NapierDevSoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NapierDevSoc/LeapIntegration/issues"
+  },
+  "homepage": "https://github.com/NapierDevSoc/LeapIntegration",
+  "dependencies": {
+    "express": "^4.9.7",
+    "mysql": "^2.5.2"
+  }
+}
